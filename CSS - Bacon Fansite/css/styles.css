@@ -1,0 +1,27 @@
+body{
+  background-color: #f9dfdc;
+}
+h1:hover{
+  color: Purple;
+  font-size: 100px;
+}
+p{
+  color: blue;
+}
+
+.baconCircular{
+  width:300px;
+  height:300px;
+  border-radius: 50%;
+
+
+}
+
+#heading{
+  color: blue;
+}
+
+img:hover{
+  background-color: purple;
+
+}
